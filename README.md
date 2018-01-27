@@ -1,2 +1,1 @@
-# ClasesSeguridad
-Clases de Implantación de Seguridad
+# Clases de Seguridad
