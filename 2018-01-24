@@ -1,5 +1,5 @@
 #############################################################################################################################
-#Reconocimiento: Recolectar información.
+#Reconocimiento: Recolectar información
 #############################################################################################################################
 #Obtener el número de resultados sobre búsquedas en Google Hacking Database (GHDB) (NO RECOMENDABLE, SE UTILIZA PARA HONEYPOT)
 #https://www.jesusninoc.com/2015/12/06/obtener-el-numero-de-resultados-sobre-busquedas-en-google-hacking-database-ghdb/
@@ -17,7 +17,7 @@
 #https://www.jesusninoc.com/2016/08/31/spiderfoot-2-7-0/
 
 #############################################################################################################################
-#Escaneo: Escanear y probar vulnerabilidades.
+#Escaneo: Escanear y probar vulnerabilidades
 #############################################################################################################################
 #openvas
 #Lynis
