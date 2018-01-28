@@ -6,3 +6,6 @@
 
 #ssdeep Project
 #https://ssdeep-project.github.io/ssdeep/index.html
+
+#Analizar la cabecera de un fichero para conocer la extensión real del fichero con PowerShell
+#https://www.jesusninoc.com/2018/01/28/analizar-la-cabecera-de-un-fichero-para-conocer-la-extension-real-del-fichero-con-powershell/
