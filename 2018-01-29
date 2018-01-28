@@ -1,2 +1,8 @@
 #Detectar si una palabra está contenida en una línea de un fichero
 #https://www.jesusninoc.com/2018/01/27/detectar-si-una-palabra-esta-contenida-en-una-linea-de-un-fichero/
+
+#Realizar hashes parciales sobre un fichero
+#https://github.com/jesusninoc/PowerShell/blob/master/Seguridad/Realizar%20hashes%20parciales%20sobre%20un%20fichero.ps1
+
+#ssdeep Project
+#https://ssdeep-project.github.io/ssdeep/index.html
