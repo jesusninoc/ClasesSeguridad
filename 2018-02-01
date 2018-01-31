@@ -6,6 +6,21 @@
 #http://papelesdeinteligencia.com/7-maneras-de-recolectar-datos-para-tu-empresa-que-todavia-no-conoces/
 
 ###################################################
+#Scripts for powershell for pentesters exam
+###################################################
+#https://github.com/salu90/PSFPT
+#BruteForce-Basic-Auth.ps1
+#Exfiltrate.ps1
+#Exploits.ps1
+#Get-Registry-Passwords.ps1
+#GitHub-Interactive-Shell.ps1
+#Registry-Malware.ps1
+#Scan-Directory-Permissions.ps1
+#Scan-Network-Shares.ps1
+#Simple-Server.ps1
+#Transfer-File-PsRemoting.ps1
+
+###################################################
 #Brute Force
 ###################################################
 
@@ -15,9 +30,6 @@
 #https://www.jesusninoc.com/brute-force/
 #Ataque de fuerza bruta con Burp Suite Intruder
 #https://www.jesusninoc.com/2016/02/23/ataque-de-fuerza-bruta-con-burp-suite-intruder/
-
-#Scripts for powershell for pentesters exam
-#https://github.com/salu90/PSFPT
 
 ###################################################
 #Preguntas posibles en examen
