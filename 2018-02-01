@@ -1,26 +1,5 @@
-############################################################################
-#Seguridad en redes
-############################################################################
-#http://darfe.es/joomla/index.php/descargas/viewdownload/5-seguridad/1310-seguridad-en-redes
+#¿Qué información se puede recopilar dentro de un sistema?
+#https://www.jesusninoc.com/2016/10/09/windows-post-exploitation-cmdlets-execution-powershell/
 
-############################################################################
-#Antivirus
-############################################################################
-#Veamos a continuación cuatro diferentes metodologías que pueden ser implementadas por una solución de seguridad, y cómo a partir de entender su funcionamiento los atacantes buscan la forma de evadirlas.
-#Detección reactiva (o basada en firmas).
-#Heurística genérica: "una variante de..."
-#Heurística pasiva: busca de condiciones que indiquen una conducta sospechosa o maliciosa, lo cual se logra analizando el código y las acciones que este realizaría, pero no ejecuta el archivo.
-#Heurística activa: alerta cuando se lleve a cabo una o varias acciones sospechosas, como acceder al SAM, inyectarse en un proceso, borrar DLLs o OCX.
-#https://www.welivesecurity.com/la-es/2017/01/12/alcanza-el-antivirus/
-
-############################################################################
-#Contraseñas
-############################################################################
-#Contraseñas seguras con PowerShell
-#https://www.jesusninoc.com/contrasenas-seguras-con-powershell/
-
-#Cracking Passwords Version 1.1
-#https://repo.zenk-security.com/Reversing%20.%20cracking/Cracking_Passwords_Guide.pdf
-
-#Privilege Escalation without Automated Tools - InfoSec Resources
-#https://securitydocs.com/privilege-escalation-without-automated-tools-infosec-resources/38418/
+#¿Qué información se puede recopilar dentro de una empresa?
+#http://papelesdeinteligencia.com/7-maneras-de-recolectar-datos-para-tu-empresa-que-todavia-no-conoces/
