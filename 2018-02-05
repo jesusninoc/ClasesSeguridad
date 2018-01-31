@@ -6,6 +6,9 @@
 ############################################################################
 #Antivirus
 ############################################################################
+#Introducción virus con PowerShell
+#https://github.com/jesusninoc/Seguridad/blob/master/Una%20aproximaci%C3%B3n%20a%20los%20virus%20en%20PowerShell.md
+
 #Veamos a continuación cuatro diferentes metodologías que pueden ser implementadas por una solución de seguridad, y cómo a partir de entender su funcionamiento los atacantes buscan la forma de evadirlas.
 #Detección reactiva (o basada en firmas).
 #Heurística genérica: "una variante de..."
