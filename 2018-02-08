@@ -1,0 +1,13 @@
+#Ensamblador
+#https://www.jesusninoc.com/2017/09/26/realizar-una-suma-de-dos-numeros-en-lenguaje-ensamblador-con-qtspim/
+
+#Shellcode
+#https://securitycafe.ro/2015/10/30/introduction-to-windows-shellcode-development-part1/
+#https://securitycafe.ro/2015/12/14/introduction-to-windows-shellcode-development-part-2/
+#https://securitycafe.ro/2016/02/15/introduction-to-windows-shellcode-development-part-3/
+
+#Cargar en memoria y ejecutar un payload de ejecución de comandos arbitrarios en PowerShell
+#https://www.jesusninoc.com/2017/02/16/cargar-en-memoria-y-ejecutar-un-payload-de-ejecucion-de-comandos-arbitrarios-en-powershell/
+
+#Analizar con Cheat Engine un payload de ejecución de comandos arbitrarios para ejecutar PowerShell
+#https://www.jesusninoc.com/2017/03/20/analizar-con-cheat-engine-un-payload-de-ejecucion-de-comandos-arbitrarios-para-ejecutar-powershell/
