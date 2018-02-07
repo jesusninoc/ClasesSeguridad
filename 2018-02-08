@@ -1,3 +1,15 @@
+#######################################################################
+#Password cracker
+#######################################################################
+
+#John the Ripper
+#http://www.openwall.com/john/
+#https://www.jesusninoc.com/2015/02/24/john-the-ripper/
+
+#######################################################################
+#Shellcode
+#######################################################################
+
 #Ensamblador
 #https://www.jesusninoc.com/2017/09/26/realizar-una-suma-de-dos-numeros-en-lenguaje-ensamblador-con-qtspim/
 
