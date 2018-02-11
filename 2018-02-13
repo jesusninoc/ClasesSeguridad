@@ -1,2 +1,12 @@
+######################################################
+#Ejecutar aplicaciones desde lenguajes de programación
+######################################################
+
 #Ejecutar un cmdlet de PowerShell desde PHP
 #https://www.jesusninoc.com/2018/01/06/ejecutar-un-cmdlet-de-powershell-desde-php/
+
+#Crear, compilar, generar y ejecutar un JAR de Java que ejecuta un cmdlet de PowerShell utilizando Runtime
+#https://www.jesusninoc.com/2018/02/09/crear-compilar-generar-y-ejecutar-un-jar-de-java-que-ejecuta-un-cmdlet-de-powershell-utilizando-runtime/
+
+#Hackear wifi con PowerShell
+#https://www.jesusninoc.com/2018/02/11/hackear-wifi-con-powershell-2/
