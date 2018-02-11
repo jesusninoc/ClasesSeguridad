@@ -1,9 +1,7 @@
-###############
-#Repaso de hash
-###############
+# Repaso de hash
 
-#Dividir un fichero en varios ficheros (cada línea en un fichero distinto)
-#https://www.jesusninoc.com/2018/02/03/dividir-un-fichero-en-varios-ficheros-cada-linea-en-un-fichero-distinto/
+## Dividir un fichero en varios ficheros (cada línea en un fichero distinto)
+https://www.jesusninoc.com/2018/02/03/dividir-un-fichero-en-varios-ficheros-cada-linea-en-un-fichero-distinto/
 
-#Realizar una función de hash sobre varios ficheros
-#https://www.jesusninoc.com/2018/02/04/realizar-una-funcion-de-hash-sobre-varios-ficheros/
+## Realizar una función de hash sobre varios ficheros
+https://www.jesusninoc.com/2018/02/04/realizar-una-funcion-de-hash-sobre-varios-ficheros/
