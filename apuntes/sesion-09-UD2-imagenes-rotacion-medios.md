@@ -11,7 +11,7 @@
 
 ---
 
-# 1. Imagen de respaldo
+## 1. Imagen de respaldo
 
 Una copia de seguridad de datos permite recuperar:
 
@@ -36,7 +36,7 @@ El equipo puede quedar:
 
 ---
 
-# 2. Imagen en frío
+## 2. Imagen en frío
 
 Se realiza:
 
@@ -59,7 +59,7 @@ Se puede arrancar desde una memoria USB con una herramienta de clonado, como:
 
 ---
 
-# 3. Imagen en caliente
+## 3. Imagen en caliente
 
 Se realiza:
 
@@ -91,7 +91,7 @@ La instantánea congela el estado del disco en un instante y permite copiar ese 
 
 ---
 
-# 5. Frío frente a caliente
+## 5. Frío frente a caliente
 
 | | Imagen en frío | Imagen en caliente |
 |---|---|---|
@@ -103,7 +103,7 @@ La instantánea congela el estado del disco en un instante y permite copiar ese 
 
 ---
 
-# 6. Verificar la imagen
+## 6. Verificar la imagen
 
 Crear una imagen no es suficiente.
 
@@ -129,7 +129,7 @@ Y comprobar:
 
 ---
 
-# 7. Frecuencia de las copias
+## 7. Frecuencia de las copias
 
 La frecuencia depende de una pregunta:
 
@@ -142,7 +142,7 @@ La frecuencia depende de una pregunta:
 
 ---
 
-# 8. Retención
+## 8. Retención
 
 También hay que determinar:
 
@@ -156,7 +156,7 @@ Si un archivo se borró hace tres semanas:
 
 ---
 
-# 9. Esquema de rotación
+## 9. Esquema de rotación
 
 La rotación establece:
 
@@ -170,7 +170,7 @@ El esquema presentado en la unidad es:
 
 ---
 
-# 10. Hijos — Copias diarias
+## 10. Hijos — Copias diarias
 
 ### Frecuencia
 
@@ -186,7 +186,7 @@ El esquema presentado en la unidad es:
 
 ---
 
-# 11. Padres — Copias semanales
+## 11. Padres — Copias semanales
 
 ### Frecuencia
 
@@ -202,7 +202,7 @@ El esquema presentado en la unidad es:
 
 ---
 
-# 12. Abuelos — Copias mensuales
+## 12. Abuelos — Copias mensuales
 
 ### Frecuencia
 
@@ -219,7 +219,7 @@ El esquema presentado en la unidad es:
 
 ---
 
-# 13. Esquema abuelo-padre-hijo
+## 13. Esquema abuelo-padre-hijo
 
 ```text
 ABUELO
@@ -251,7 +251,7 @@ Sin necesidad de conservar 365 copias.
 
 ---
 
-# 14. Sustitución de soportes
+## 14. Sustitución de soportes
 
 Los soportes:
 
@@ -264,7 +264,7 @@ Por ello, el plan de rotación debe indicar:
 
 ---
 
-# 15. Medios extraíbles
+## 15. Medios extraíbles
 
 ## Disco duro externo USB
 
@@ -299,7 +299,7 @@ Por ello, el plan de rotación debe indicar:
 
 ---
 
-# 16. Cinta magnética — LTO
+## 16. Cinta magnética — LTO
 
 ### Características
 
@@ -315,7 +315,7 @@ Por ello, el plan de rotación debe indicar:
 
 ---
 
-# 17. Almacenamiento remoto
+## 17. Almacenamiento remoto
 
 Puede realizarse:
 
@@ -335,7 +335,7 @@ La copia:
 
 ---
 
-# 18. Procedimiento con soportes extraíbles
+## 18. Procedimiento con soportes extraíbles
 
 ### 1. Cifrar
 
@@ -366,7 +366,7 @@ Comprobar la copia mediante:
 
 ---
 
-# 19. Copia desconectada
+## 19. Copia desconectada
 
 La unidad indica que:
 
@@ -386,7 +386,7 @@ Una copia desconectada:
 
 ---
 
-# 20. Ampliación: copias frente al ransomware
+## 20. Ampliación: copias frente al ransomware
 
 La unidad amplía la regla 3-2-1 con:
 
@@ -416,7 +416,7 @@ Mayor protección frente al ransomware
 
 ---
 
-# 21. Copias en la nube
+## 21. Copias en la nube
 
 Las copias en la nube pueden proporcionar:
 
@@ -445,7 +445,7 @@ Permite:
 
 ---
 
-# 22. Cifrado en reposo
+## 22. Cifrado en reposo
 
 Las copias deben estar:
 
@@ -457,7 +457,7 @@ Si alguien accede al soporte o al fichero:
 
 ---
 
-# 23. RPO
+## 23. RPO
 
 **RPO — Recovery Point Objective**
 
@@ -475,7 +475,7 @@ Si:
 
 ---
 
-# 24. RTO
+## 24. RTO
 
 **RTO — Recovery Time Objective**
 
@@ -485,7 +485,7 @@ Indica:
 
 ---
 
-# 25. RPO frente a RTO
+## 25. RPO frente a RTO
 
 | Concepto | Pregunta |
 |---|---|
@@ -499,7 +499,7 @@ RTO → tiempo de recuperación
 
 ---
 
-# 26. Pruebas periódicas de restauración
+## 26. Pruebas periódicas de restauración
 
 Hay que comprobar periódicamente:
 
@@ -509,7 +509,7 @@ No basta con confiar en que la copia existe.
 
 ---
 
-# Para recordar
+## Para recordar
 
 ```text
 IMAGEN
