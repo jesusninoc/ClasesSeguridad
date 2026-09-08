@@ -143,20 +143,7 @@ Permite representar la política de permisos de forma visual.
 
 ---
 
-## 8. Ejemplo genérico
-
-| Recurso | Grupo A | Grupo B | Grupo C |
-|---|---|---|---|
-| Recurso 1 | Modificar | Sin acceso | Solo lectura |
-| Recurso 2 | Sin acceso | Modificar | Solo lectura |
-| Recurso 3 | Modificar | Modificar | Modificar |
-| Recurso 4 | Sin acceso | Sin acceso | Modificar |
-
-> Regla: lo que no se concede en la política no debe quedar abierto por defecto.
-
----
-
-## 9. Principios de una buena política de acceso
+## 8. Principios de una buena política de acceso
 
 ### Mínimo privilegio
 
@@ -185,7 +172,7 @@ Permite representar la política de permisos de forma visual.
 
 ---
 
-## 10. Política escrita ≠ configuración real
+## 9. Política escrita ≠ configuración real
 
 Una política puede estar correctamente diseñada y, aun así, no coincidir con la configuración real.
 
@@ -203,7 +190,7 @@ Una política puede estar correctamente diseñada y, aun así, no coincidir con 
 
 ---
 
-## 11. ACL en otros ámbitos
+## 10. ACL en otros ámbitos
 
 La misma idea aparece en:
 
@@ -225,7 +212,7 @@ La misma idea aparece en:
 
 ---
 
-## 12. Preguntas para clase
+## 11. Preguntas para clase
 
 - ¿Qué diferencia hay entre acceso físico y acceso a un recurso?
 - ¿Qué significa ACL?
@@ -238,7 +225,7 @@ La misma idea aparece en:
 
 ---
 
-## 13. Para cerrar
+## 12. Para cerrar
 
 ### Debe quedar claro
 
