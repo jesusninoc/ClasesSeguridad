@@ -1,15 +1,3 @@
-# Módulo profesional 09: Seguridad informática (código 0226)
-## Contenidos (duración 85 horas)
-
-- Introducción a la seguridad informática
-- Aplicación de medidas de seguridad pasiva
-- Gestión de dispositivos de almacenamiento
-- Copias de seguridad e imágenes de respaldo
-- Almacenamiento remoto y extraíble
-- Aseguramiento de la privacidad
-- Aplicación de mecanismos de seguridad activa
-- Cumplimiento de la legislación y de las normas sobre seguridad
-
 # Temario
 ## Introducción a la seguridad informática
 - Visión global de la seguridad informática. Conceptos.
