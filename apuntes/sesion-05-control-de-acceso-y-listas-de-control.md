@@ -125,7 +125,7 @@ Los permisos pueden heredarse desde una carpeta hacia:
 
 ---
 
-# 7. Matriz de control de accesos
+## 7. Matriz de control de accesos
 
 Permite representar la política de permisos de forma visual.
 
