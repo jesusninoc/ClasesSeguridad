@@ -176,7 +176,7 @@ RAID no protege frente a:
 
 ---
 
-# 10. NAS
+## 10. NAS
 
 **NAS (Network Attached Storage)**
 
@@ -202,7 +202,7 @@ Dispositivo de almacenamiento conectado a la red.
 
 ---
 
-# 11. SAN
+## 11. SAN
 
 **SAN (Storage Area Network)**
 
