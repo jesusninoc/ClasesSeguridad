@@ -141,22 +141,7 @@ Ejemplos:
 - Redundancia
 - Copias de seguridad
 
----
-
-## 8. Importante: activa ≠ lógica / pasiva ≠ física
-
-La clasificación depende de **cuándo actúa la medida**.
-
-### Ejemplo
-
-- Control de acceso físico → puede impedir un acceso no autorizado → actuación preventiva.
-- SAI → no evita el corte eléctrico, pero reduce sus consecuencias → actuación pasiva.
-
-> Lo que agrupa los contenidos de esta unidad es la protección del equipo físico y su entorno.
-
----
-
-## 9. Relación con CID
+## 8. Relación con CID
 
 Una amenaza puede afectar a:
 
@@ -172,7 +157,7 @@ Un incidente impide utilizar un servicio:
 
 ---
 
-## 10. Esquema para recordar
+## 9. Esquema para recordar
 
 ```text
 ¿Qué puede dañarnos? → AMENAZA
@@ -186,7 +171,7 @@ Un incidente impide utilizar un servicio:
 
 ---
 
-## 11. Preguntas para clase
+## 10. Preguntas para clase
 
 - ¿Una contraseña débil es una amenaza o una vulnerabilidad?
 - ¿Un incendio es una amenaza?
@@ -197,7 +182,7 @@ Un incidente impide utilizar un servicio:
 
 ---
 
-## 12. Para cerrar
+## 11. Para cerrar
 
 - Identificar amenazas.
 - Detectar vulnerabilidades.
