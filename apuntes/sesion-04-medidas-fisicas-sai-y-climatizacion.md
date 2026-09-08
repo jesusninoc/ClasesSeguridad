@@ -60,9 +60,9 @@ Reducir el riesgo de pérdida de equipos y servicios.
 
 ---
 
-# 5. SAI / UPS
+## 5. SAI / UPS
 
-## ¿Qué es?
+### ¿Qué es?
 
 **SAI = Sistema de Alimentación Ininterrumpida**
 
@@ -71,7 +71,7 @@ Reducir el riesgo de pérdida de equipos y servicios.
 
 ---
 
-## ¿Qué problemas aborda?
+### ¿Qué problemas aborda?
 
 - Cortes de corriente.
 - Picos de tensión.
@@ -79,7 +79,7 @@ Reducir el riesgo de pérdida de equipos y servicios.
 
 ---
 
-## ¿Qué permite hacer?
+### ¿Qué permite hacer?
 
 Ante un corte:
 
@@ -90,7 +90,7 @@ Ante un corte:
 
 ---
 
-## ¿Qué protege?
+### ¿Qué protege?
 
 Un corte de corriente puede provocar:
 
@@ -98,13 +98,13 @@ Un corte de corriente puede provocar:
 - Daños en equipos.
 - Pérdida de disponibilidad.
 
-### Idea clave
+#### Idea clave
 
 > **El SAI no evita el corte de corriente. Reduce sus consecuencias.**
 
 ---
 
-# 6. Climatización
+## 6. Climatización
 
 Los equipos informáticos generan **calor**.
 
