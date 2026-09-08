@@ -48,7 +48,7 @@ La unidad plantea como entregable:
 
 ---
 
-# 3. Integridad de la información
+## 3. Integridad de la información
 
 La integridad es uno de los pilares **CID**.
 
@@ -84,7 +84,7 @@ La unidad presenta varias técnicas:
 
 ---
 
-# 5. Sumas de verificación y funciones hash
+## 5. Sumas de verificación y funciones hash
 
 Una función hash calcula una:
 
@@ -142,7 +142,7 @@ El material indica que:
 
 ---
 
-# 7. Firmas digitales
+## 7. Firmas digitales
 
 Las firmas digitales garantizan:
 
@@ -159,7 +159,7 @@ Es decir:
 
 ---
 
-# 8. Permisos y control de acceso
+## 8. Permisos y control de acceso
 
 Permiten que:
 
@@ -171,7 +171,7 @@ Objetivo:
 
 ---
 
-# 9. Registros de auditoría
+## 9. Registros de auditoría
 
 Los **logs** permiten saber:
 
@@ -183,7 +183,7 @@ Esto proporciona:
 
 ---
 
-# 10. Sistemas de archivos con integridad
+## 10. Sistemas de archivos con integridad
 
 La unidad menciona:
 
@@ -196,7 +196,7 @@ Estos sistemas:
 
 ---
 
-# 11. Copias de seguridad e integridad
+## 11. Copias de seguridad e integridad
 
 Las copias también contribuyen a la integridad porque:
 
@@ -214,7 +214,7 @@ DATOS ÍNTEGROS
 
 ---
 
-# 12. Verificación mediante hash
+## 12. Verificación mediante hash
 
 En la práctica:
 
