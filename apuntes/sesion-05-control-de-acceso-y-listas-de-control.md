@@ -64,9 +64,9 @@ REGISTRO
 
 ---
 
-# 4. Listas de control de acceso — ACL
+## 4. Listas de control de acceso — ACL
 
-## ¿Qué es una ACL?
+### ¿Qué es una ACL?
 
 **ACL = Access Control List**
 
@@ -156,28 +156,28 @@ Permite representar la política de permisos de forma visual.
 
 ---
 
-# 9. Principios de una buena política de acceso
+## 9. Principios de una buena política de acceso
 
-## Mínimo privilegio
+### Mínimo privilegio
 
 - Dar únicamente los permisos necesarios.
 - Evitar permisos superiores por comodidad.
 
-## Denegación por defecto
+### Denegación por defecto
 
 - Partir de la ausencia de acceso.
 - Conceder únicamente lo necesario.
 
-## Permisos a grupos
+### Permisos a grupos
 
 - Preferir grupos frente a permisos individuales.
 - Facilita altas, cambios y bajas.
 
-## Responsable por recurso
+### Responsable por recurso
 
 - Cada recurso debe tener una persona responsable de la política de acceso.
 
-## Revisión periódica
+### Revisión periódica
 
 - Revisar los permisos.
 - Comprobar que siguen siendo necesarios.
@@ -185,7 +185,7 @@ Permite representar la política de permisos de forma visual.
 
 ---
 
-# 10. Política escrita ≠ configuración real
+## 10. Política escrita ≠ configuración real
 
 Una política puede estar correctamente diseñada y, aun así, no coincidir con la configuración real.
 
